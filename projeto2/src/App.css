@@ -1,0 +1,23 @@
+fieldset{
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 40%;
+}
+
+textarea{
+    width: 250px;
+    height: 100px;
+    display: flex;
+}
+
+input{
+    display: flex;
+    margin-left: 260px;
+    margin-top: -22px;
+}
+
+p{
+    display: flex;
+    margin-left: 200px;
+    margin-top: -5px;
+}
